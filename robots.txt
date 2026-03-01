@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gangwon.muchon.co.kr/sitemap.xml
